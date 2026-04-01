@@ -4,7 +4,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=chkobbaa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chkobbaa&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-Reach me: rayen@bahroun.me
+Reach me: rayen@bahroun.com
 
 
 ## 🌐 Socials:
